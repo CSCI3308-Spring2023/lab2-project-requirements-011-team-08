@@ -18,9 +18,9 @@ git add submission
 git commit -m "add team document"
 git push
 ```
-Recitation-011-Team-08
-Carson Gross carsongro
-Jake Niedzielski jakeniedzielski
-Devin Rocha devinar25
-Justin Nguyen jung1504
+Recitation-011-Team-08 </br>
+Carson Gross carsongro </br>
+Jake Niedzielski jakeniedzielski </br>
+Devin Rocha devinar25 </br>
+Justin Nguyen jung1504 </br>
 Andrew Best anbe8868
